@@ -59,7 +59,7 @@ git clone https://github.com/Unknown-tech404/DOMINATOR.git
 cd DOMINATOR
 pip install -r requirements.txt
 ```
-###Dependencies
+### Dependencies
 ```bash
 dnspython>=2.6.1      # DNS resolution
 python-whois>=0.9.4   # WHOIS lookup
@@ -75,13 +75,13 @@ colorama>=0.4.6       # Colored output
 python DOMINATOR.py example.com
 ```
 
-###Show Help
+### Show Help
 ```bash
 
 python DOMINATOR.py
 ```
 ---
-###Examples
+### Examples
 ```bash
 
 # Scan a domain
@@ -184,6 +184,5 @@ If you find DOMINATOR useful, please give it a star on GitHub! ⭐
 ---
 
 **Made with ❤️ by Unknown-tech404 | Chandpur Cyber Team & DarkNet Cyber Force BD**
-```
 
 ---

@@ -80,7 +80,7 @@ python DOMINATOR.py example.com
 
 python DOMINATOR.py
 ```
-
+---
 ###Examples
 ```bash
 
@@ -93,7 +93,7 @@ python DOMINATOR.py github.com
 # Scan a subdomain
 python DOMINATOR.py mail.example.com
 ```
-
+---
 ### 📊 Output Example
 ```bash
 
@@ -149,31 +149,41 @@ python DOMINATOR.py mail.example.com
   }
 }
 ```
+---
+
 ## ⚠️ Disclaimer
 
-    Important: This tool is designed for educational and authorized testing purposes only. Use it only on domains and IP addresses you own or have explicit permission to test. The author is not responsible for any misuse or damage caused by this tool.
+> **Important:** This tool is designed for **educational and authorized testing purposes only**. Use it only on domains and IP addresses you own or have explicit permission to test. The author is not responsible for any misuse or damage caused by this tool.
+
+---
 
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
 
-    Fork the repository
+1. **Fork** the repository
+2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
+3. **Commit** your changes (`git commit -m 'Add AmazingFeature'`)
+4. **Push** to the branch (`git push origin feature/AmazingFeature`)
+5. **Open** a Pull Request
 
-    Create a feature branch (git checkout -b feature/AmazingFeature)
-
-    Commit your changes (git commit -m 'Add AmazingFeature')
-
-    Push to the branch (git push origin feature/AmazingFeature)
-
-    Open a Pull Request
+---
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-⭐ Star History
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## ⭐ Star History
 
 If you find DOMINATOR useful, please give it a star on GitHub! ⭐
 
-https://api.star-history.com/svg?repos=Unknown-tech404/DOMINATOR&type=Date
+[![Star History Chart](https://api.star-history.com/svg?repos=Unknown-tech404/DOMINATOR&type=Date)](https://star-history.com/#Unknown-tech404/DOMINATOR&Date)
 
-## Made with ❤️ by Unknown-tech404
+---
+
+**Made with ❤️ by Unknown-tech404 | Chandpur Cyber Team & DarkNet Cyber Force BD**
+```
+
+---
